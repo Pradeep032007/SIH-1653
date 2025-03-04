@@ -57,7 +57,10 @@ Database Setup: 10 days
 
 Testing and Deployment: 15 days
 
-## Budget
-Rs:45,000
+## Dependencies
+Mapping service - 10 days
+Data Collection - 7 days
+Budget - 50,000rs
+
 
 
