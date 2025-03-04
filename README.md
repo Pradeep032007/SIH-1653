@@ -28,7 +28,8 @@ Ministry of Defence
 8.Feedback and Surveys: Allows alumni to provide feedback and participate in surveys to improve the association.
 
 ## Proposed Solution / Architecture Diagram
-![Screenshot 2025-03-04 104516](https://github.com/user-attachments/assets/5b710010-8dc7-4cae-b555-eb5109734f68)
+![web application ](https://github.com/user-attachments/assets/e43126f7-a49d-4bc7-a70c-3e551409f1a8)
+
 
 
 ## Use Cases
